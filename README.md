@@ -1,6 +1,6 @@
 # MyAndroidMVCTest
 AndroidMVCTest
-MVC
+MVC/t
 MODEL
 VIEW
 CONTROLLER
